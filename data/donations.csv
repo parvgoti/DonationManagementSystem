@@ -1,0 +1,9 @@
+donation_id,donor_id,date,amount,cause,source,payment_mode,description
+DN001,D001,2026-09-01,5000.00,Education,Individual,UPI,School supplies
+DN002,D002,2026-09-03,25000.00,Healthcare,Organization,Bank Transfer,Medical support
+DN003,D003,2026-09-08,3000.00,Food,Individual,UPI,Food distribution
+DN004,D004,2026-09-15,40000.00,Environment,Corporate,Bank Transfer,Tree plantation drive
+DN005,D005,2026-09-20,15000.00,Child Welfare,NGO,Cheque,Child support program
+DN006,D001,2026-10-01,7500.00,Education,Individual,UPI,Scholarship support
+DN007,D002,2026-10-03,30000.00,Healthcare,Organization,Bank Transfer,Hospital equipment
+DN009,D006,2026-10-07,100000.00,Education,Organization,Cheque,For more student get education
